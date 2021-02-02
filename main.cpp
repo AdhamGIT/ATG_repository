@@ -1,5 +1,6 @@
-#include<iostream> 
+#include<iostream>
+using namespace std;
 int main(){
-	std::cout<<"Testing"<<std::endl;
+	cout<<"Testing"<<endl;
 	return 0;
 }
